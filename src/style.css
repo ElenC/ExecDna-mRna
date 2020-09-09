@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: rgb(150, 127, 172);
+}
+h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+#principal{
+    margin: 90px 110px 0px 150px;
+    padding: 20px;
+}
+h2{
+    color:#fff;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+input{
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
